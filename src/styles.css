@@ -1,0 +1,17 @@
+body {
+  font-family: arial;
+}
+
+.toggle-block {
+  display: flex;
+  margin-bottom: 1em;
+}
+
+.status-block {
+  margin-top: 1em;
+  height: 2em;
+}
+
+p {
+  margin-top: 0;
+}
